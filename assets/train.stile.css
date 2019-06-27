@@ -1,0 +1,25 @@
+.panel{
+    margin-top: 35%
+}
+.panel-heading{
+    background-color: #0f3854
+}
+.panel-heading{
+    background-color: coral
+}
+.panel-title{
+    color: antiquewhite;
+    font-family: 'Share Tech Mono'
+    }
+.panel-body{
+    background-color: darkseagreen;
+}
+.text{
+    background-color: darkseagreen;
+    height: 100px;
+    text-align: center;
+    font-family: 'Share Tech Mono';
+    font-size: 250%;
+    
+    
+}
